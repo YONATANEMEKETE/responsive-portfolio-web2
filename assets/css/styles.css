@@ -19,7 +19,7 @@
       -> Copy the color mode (HSL)
   */
 
-  --hue: 210;
+  --hue: 162;
   --first-color: hsl(var(--hue), 100%, 40%);
   --first-color-alt: hsl(var(--hue), 56%, 35%);
   --title-color: hsl(228, 8%, 95%);
